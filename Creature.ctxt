@@ -1,6 +1,10 @@
 #BlueJ class context
-comment0.params=
-comment0.target=Creature()
-comment1.params=
-comment1.target=int\ damage()
-numComments=2
+comment0.target=Creature
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Creature\ here.\r\n\ \r\n\ @author\ Andrew\ Helgeson\r\n\ @version\ 11.16.2018\r\n
+comment1.params=hitpoints\ str
+comment1.target=Creature(int,\ int)
+comment2.params=
+comment2.target=int\ damage()
+comment3.params=
+comment3.target=boolean\ isAlive()
+numComments=4
